@@ -1,0 +1,23 @@
+{
+    "deepscan.enable": true,
+    "python.pythonPath": "C:\\Users\\marc-\\.virtualenvs\\PyFormMAQ-gmcj1n4u\\Scripts\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./lib",
+        "-p",
+        "*_test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "XLARGE",
+        "pygame"
+    ],
+    "python.linting.flake8Enabled": true,
+    "wolf.disableHotModeWarning": true,
+    "search-online.search-engine": "Google"
+}
